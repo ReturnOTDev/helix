@@ -1,0 +1,9 @@
+<svg id="fire" xmlns="http://www.w3.org/2000/svg" width="129.664" height="129.664" viewBox="0 0 129.664 129.664">
+  <g id="Ellipse_7" data-name="Ellipse 7" fill="none" stroke="#ff6f00" stroke-miterlimit="10" stroke-width="4">
+    <circle cx="64.832" cy="64.832" r="64.832" stroke="none"/>
+    <circle cx="64.832" cy="64.832" r="62.832" fill="none"/>
+  </g>
+  <g id="Group_15" data-name="Group 15" transform="translate(28.831 21.468)">
+    <path id="Path_19" data-name="Path 19" d="M933.942,320.3s-29-4.292-29-29,37.923-27.069,29.53-57.726c0,0,28.4,8.886,21.464,36.556a23.881,23.881,0,0,0,6.629-7.066s14.378,11.107,14.378,28.008-19.931,29.335-29.373,29.219c0,0,10.188-13.755.919-22.623C935.33,285.08,940.939,277,940.939,277S908.881,292.678,933.942,320.3Z" transform="translate(-904.939 -233.575)" fill="none" stroke="#ff6f00" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+</svg>

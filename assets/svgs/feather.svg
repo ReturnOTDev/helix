@@ -1,0 +1,12 @@
+<svg id="feather" xmlns="http://www.w3.org/2000/svg" width="129.664" height="129.664" viewBox="0 0 129.664 129.664">
+  <g id="Ellipse_5" data-name="Ellipse 5" fill="none" stroke="#ff6f00" stroke-miterlimit="10" stroke-width="4">
+    <circle cx="64.832" cy="64.832" r="64.832" stroke="none"/>
+    <circle cx="64.832" cy="64.832" r="62.832" fill="none"/>
+  </g>
+  <g id="Group_10" data-name="Group 10" transform="translate(43 17)">
+    <path id="Path_15" data-name="Path 15" d="M731.294,325c41.75-43.6-1.434-95-1.434-95h0s-47.178,46.532-10.177,94.229Z" transform="translate(-705.517 -230)" fill="none" stroke="#ff6f00" stroke-miterlimit="10" stroke-width="4"/>
+    <path id="Path_16" data-name="Path 16" d="M740.623,247.655s1.166,24.8-12.811,31.2" transform="translate(-705.208 -229.742)" fill="none" stroke="#ff6f00" stroke-miterlimit="10" stroke-width="4"/>
+    <path id="Path_17" data-name="Path 17" d="M747.452,266.277s-.666,24.22-19.74,31.745" transform="translate(-705.091 -229.465)" fill="none" stroke="#ff6f00" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Line_9" data-name="Line 9" x1="3.461" y2="94.412" transform="translate(20.866)" fill="#fff" stroke="#ff6f00" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+</svg>

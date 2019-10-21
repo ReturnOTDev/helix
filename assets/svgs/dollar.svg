@@ -1,0 +1,13 @@
+<svg id="dollar" xmlns="http://www.w3.org/2000/svg" width="129.664" height="129.664" viewBox="0 0 129.664 129.664">
+  <g id="Ellipse_6" data-name="Ellipse 6" fill="none" stroke="#ff6f00" stroke-miterlimit="10" stroke-width="4">
+    <circle cx="64.832" cy="64.832" r="64.832" stroke="none"/>
+    <circle cx="64.832" cy="64.832" r="62.832" fill="none"/>
+  </g>
+  <g id="Group_12" data-name="Group 12" transform="translate(35 17)">
+    <path id="Path_18" data-name="Path 18" d="M35.676.624C55.847.624,65.058-9.4,65.058-20.947c0-29.617-50.952-15.158-50.952-39.645,0-8.978,7.112-16.324,22.969-16.324a40.333,40.333,0,0,1,22.386,6.88l2.215-4.781c-6.3-4.548-15.624-7.346-24.6-7.346-20.054,0-28.916,10.144-28.916,21.688,0,30.084,50.952,15.392,50.952,39.878,0,8.862-7.229,15.975-23.552,15.975-10.96,0-21.337-4.431-26.934-10.261L5.944-10.453C11.89-3.923,23.55.624,35.676.624Z" transform="translate(-5.944 88.664)" fill="#ff6f00"/>
+    <g id="Group_14" data-name="Group 14" transform="translate(24.013)">
+      <line id="Line_10" data-name="Line 10" y2="95" transform="translate(10.61)" fill="none" stroke="#ff6f00" stroke-miterlimit="10" stroke-width="4"/>
+      <line id="Line_11" data-name="Line 11" y2="95" fill="none" stroke="#ff6f00" stroke-miterlimit="10" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
